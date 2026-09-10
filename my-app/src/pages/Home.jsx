@@ -1,4 +1,5 @@
-import MovieCard from '../components/MovieCard';
+import MovieCard from '../component/MovieCard';
+import { movies } from '../data';
 
 function Home() {
   return (
